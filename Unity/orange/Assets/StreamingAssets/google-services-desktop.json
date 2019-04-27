@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1015148082564",
+    "firebase_url": "https://learnchinese-b3f39.firebaseio.com",
+    "project_id": "learnchinese-b3f39",
+    "storage_bucket": "learnchinese-b3f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015148082564:android:0c137f83826c845f",
+        "android_client_info": {
+          "package_name": "com.Orange.JUZI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHyeNxnH6Al4o1kMx0JhV3E-CVXzYP_lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015148082564-cc54iboon1pd9hm2s9tbgpmpjf926bjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
